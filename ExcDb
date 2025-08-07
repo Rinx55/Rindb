@@ -1,0 +1,6 @@
+const global = {
+    owner: ["7245819625"],
+    botToken: "7896195981:AAEA__A0aDAZQdRVjat6d8B1VxPM1IsEJN0",
+}
+
+module.exports = global;
